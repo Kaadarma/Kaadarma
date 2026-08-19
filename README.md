@@ -1,7 +1,7 @@
 
 <h1>Hi There, I'm Kaa Darma <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Backedn Engineer** Student Udayana University. My day to day work revolves around building "" models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
+I'm a **Backend Engineer** Student at Udayana University. My day to day work revolves around building "" models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
 
 ## Skill Set :muscle:
 
