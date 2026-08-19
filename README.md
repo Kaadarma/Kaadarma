@@ -1,7 +1,9 @@
 
 <h1>Hi There, I'm Kaa Darma <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Backend Engineer**. My day to day work revolves around building "" models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
+I'm a **Backend Engineer**. passionate about building reliable, scalable, and efficient backend systems. I enjoy solving interesting problems, designing APIs, working with databases, and deploying applications to production.
+
+I'm always open to collaborating on interesting projects and learning new technologies along the way.
 
 ## Skill Set :muscle:
 
